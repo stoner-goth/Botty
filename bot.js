@@ -49,7 +49,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 					var mess1 = new String ("**" + user + "** rolled a **" + roll + "**");
 					bot.sendMessage({
 						to: channelID,
-						message: mess1 + mess2
+						message: mess1
 					});
 					i++;
 				}
