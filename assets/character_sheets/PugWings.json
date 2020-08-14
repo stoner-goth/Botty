@@ -1,0 +1,18 @@
+{
+	"playername":"PugWings",
+	"name":"Inquisitor",
+	"WS":25,
+	"BS":35,
+	"S":45,
+	"T":55,
+	"AG":0,
+	"INT":65,
+	"PER":75,
+	"WP":85,
+	"FEL":95,
+	"INF":100,
+	"skills":{
+		"Acrobatics":1,
+		"Charm":3
+	}
+}
